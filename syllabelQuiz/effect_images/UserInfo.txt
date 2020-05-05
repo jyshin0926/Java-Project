@@ -1,0 +1,11 @@
+dog	park	123	901020	0	0	0	N
+cat	kim	345	920321	0	0	0	N
+mouse	choi	cool	920391	0	0	0	N
+horse	yoon	qwerty	920493	0	0	0	N
+hippo	cho	1111	950393	0	0	0	N
+insect	jung	333	950393	0	0	0	N
+dd	d	d	950393	0	0	0	N
+dfd	À±	dfdf	950393	0	0	0	N
+sdf	¹Ú	ddd	950393	0	0	0	N
+bts	³ªºñ	1234	900101	0	0	0	N
+1dw2	1dw2	wwww	121212	0	0	0	N	
